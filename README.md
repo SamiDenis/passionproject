@@ -2,7 +2,7 @@ Welcome to Beau Boutique
 
 Designer Womens Clothing
 
-Beau Boutique can be accessed through its link at :( https://fragcapstone-ju9gwd0r4.vercel.app/fragfront/ )
+Beau Boutique can be accessed through its link at :( https://samidenis.github.io/passionproject/ )
 
 On the main page, the user is able to navigate through designer dresses present on the Beau Boutique website.  When the hamburger menu is "clicked", the user with see a drop down menu for womens clothing, consisting of:  dresses, blouses, tees, bottoms, and swimwear. (ONLY the *Dresses* tab currently works within the womens tab). If the user "clicks" Contact, the user will be guided to the contact information at the bottom of the webpage. 
 
